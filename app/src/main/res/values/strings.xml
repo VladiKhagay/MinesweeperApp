@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">MinesweeperApp</string>
+    <string name="main_title">Minesweeper</string>
+    <string name="difficulty_label">Difficulty</string>
+    <string name="start_button_text">START</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="expert">Expert</string>
+    <string name="top_scores_label">Top Scores</string>
+    <string name="sec"> sec</string>
+
+    <string-array name="difficulty_spinner">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Expert</item>
+    </string-array>
+
+    <!--    game activity strings: -->
+    <string name="timer_label">Time</string>
+    <string name="flags_label">Flags</string>
+    <string name="game_over_toast">Game Over! \nTap anywhere to continue</string>
+
+    <!--    game over activity strings: -->
+    <string name="won">YOU WON!</string>
+    <string name="lost">YOU LOST!</string>
+    <string name="score_label">Your Score:</string>
+    <string name="play_again_button_text">Play Again</string>
+    <string name="main_menu_buttonText">Main Menu</string>
+
+</resources>
